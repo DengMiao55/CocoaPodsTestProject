@@ -1,0 +1,22 @@
+{
+  "name": "Podtest",
+  "version": "0.1.0",
+  "summary": "A short description of Podtest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DengMiao55/Podtest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DengMiao55": "dengmiao@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/DengMiao55/Podtest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Podtest/Classes/**/*"
+}
